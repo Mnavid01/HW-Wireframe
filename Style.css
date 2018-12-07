@@ -1,0 +1,95 @@
+* {
+    box-sizing: border-box;
+  }
+
+.Header {
+position: center;
+  top: 0;
+  left: 0;
+  padding: 40px;
+  margin: 0;
+  text-align: center;
+  background: #eee;
+  border: 10px solid grey
+}
+
+.Nav {
+    position: center;
+  top: 0;
+  left: 0;
+  padding: 40px;
+  margin: 0;
+  text-align: center;
+  background: #eee;
+  border: 10px solid grey
+}
+
+.Section {
+   position: relative; 
+    float: left;
+    width: 50%;
+    padding: 20px;
+    height: 320px;
+  text-align: center;
+  background: #eee;
+  border: 10px solid grey;
+}
+
+.Aside {
+float: right;
+float: left;
+width: 50%;
+padding: 20px;
+height: 320px;
+  text-align: center;
+  background: #eee;
+  border: 10px solid grey;
+}
+
+.Footer {
+    position: center;
+  top: 0;
+  left: 0;
+  padding: 40px;
+  margin: 0;
+  text-align: center;
+  background: #eee;
+  border: 10px solid grey
+}
+
+.article {
+    Position: absolute;
+    left: 33px;
+    bottom: 50px;
+    width: 46%;
+    height: 200px;
+    color: white;
+    text-align: center;
+    background: grey;
+}
+
+.h1h2h3 {
+    position: absolute;
+    left: 54px;
+    bottom: 135px;
+    width: 43%;
+    height: 65px;
+    text-align: center;
+    background: #eee;
+    border: 3px solid grey
+}
+
+.p {
+    position: absolute;
+    left: 54px;
+    bottom: 65px;
+    width: 43%;
+    height: 65px;
+    text-align: center;
+    background: #eee;
+    border: 3px solid grey
+}
+
+body {
+    Background-color: grey;
+}
